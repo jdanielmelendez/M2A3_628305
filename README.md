@@ -1,0 +1,1 @@
+Se han cambiado los div por etiquetas semánticas para mejorar la estructura del documento. Ahora se utilizan header, nav, main, article, aside y footer. También usó h1 para títulos como nombre del blog, y se usó h2 para el artículo. Se utilizó time para fechas y adress para contacto.
